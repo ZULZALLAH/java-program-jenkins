@@ -7,6 +7,6 @@ public static String x="";
         System.out.println(x + "output from java program");
         System.out.println(new Date());
         System.out.println("This is Git Desktop");
-        System.out.println("This Is GitHub Desktop");
+        System.out.println("This Is GitHub Desktops");
     }
 }
